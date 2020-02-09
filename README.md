@@ -1,2 +1,3 @@
-# myanimelist_scraper
- Search for all the anime listed on myanimelist.net and save it in json (and optionally csv).
+# MyAnimeList.net Scraper
+
+Search for all the anime listed on top of myanimelist.net and save it in json (and optionally csv).
