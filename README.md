@@ -15,4 +15,4 @@ $ scrapy crawl mal -o mal.json
 ```
 To store the data in the `mal.json` file.
 
-To convert the json to a csv file, you can use the `json_to_csv.py` script.
+To convert the json to a csv file you can use the `json_to_csv.py` script.
